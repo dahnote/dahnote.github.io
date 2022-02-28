@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>如何查詢恐懼與貪婪指數</title>
+    <url>/investment/fearindex/</url>
+    <content><![CDATA[<img src="https://live.staticflickr.com/65535/51499370028_de72d29186_o.png" width="600" height="400" alt="貪婪恐懼封面">
+因為中國的恆大地產風暴，大家可以看到股市修正與投資人恐慌的新聞再現，透過這個機會來帶大家解析恐慌指數，讓你知道如何查詢恐懼與貪婪指數，且用量化的方式讓你知道，現在的市場是否真的符合巴菲特所說的『別人恐懼我貪婪』。
+<span id="more"></span>
+
+<h2 id="恐懼與貪婪指數的組成"><a href="#恐懼與貪婪指數的組成" class="headerlink" title="恐懼與貪婪指數的組成"></a><strong>恐懼與貪婪指數的組成</strong></h2><p>恐懼與貪婪指數(Fear &amp; Greed Index)是由CNN BUSINESS所編寫的指數，由以下七個綜合指標所組成。這個指數泛指投資市場的整體氛圍，不相同於我們所理解的指數，因為『恐懼與貪婪指數』不存在於指數成分股的概念。</p>
+<p>1.垃圾債需求(Junk Bond Demand)<br>2.市場動能(Market Momentum)<br>3.股票強度(Stock Price Strenth)<br>4.市場波動(Market Volatility)<br>5.市場廣度(Stock Price Breadth)<br>6.看跌看漲選擇權(Put and Call Options)<br>7.避險需求(Safe Haven Demand)</p>
+<h2 id="速解恐懼與貪婪指數"><a href="#速解恐懼與貪婪指數" class="headerlink" title="速解恐懼與貪婪指數"></a><strong>速解恐懼與貪婪指數</strong></h2><p>基本上『恐懼與貪婪指數』是由上述七項指標所運算出來的，運算出來的值會介於0-100，0是最恐懼的狀態；100是最貪婪的狀態；50則是中性的表現，根據這個0~100的區間，我們又可以將其切為以下五個區段。</p>
+<ul>
+<li>0-25 為極度恐懼（Extreme Fear）</li>
+<li>26-44 為恐懼（Fear）</li>
+<li>45-55 為中立（Neutral）</li>
+<li>56-74 為貪婪（Greed）</li>
+<li>75-100 為極度貪婪（Extreme Greed）</li>
+</ul>
+<p>從下圖的<a href="https://money.cnn.com/data/fear-and-greed/">CNN BUSINESS</a>的網站來看，我們可以看到2021/09/23，當日的『恐懼與貪婪指數』是21，處於極度恐懼的階段，同時你可以看到例如最近1週、1個月、1年的『恐懼與貪婪指數』</p>
+<img src="https://live.staticflickr.com/65535/51499282478_24ac907653_o.jpg" width="600" height="300" alt="fear">
+
+<h2 id="恐懼與貪婪指數對我的幫助"><a href="#恐懼與貪婪指數對我的幫助" class="headerlink" title="恐懼與貪婪指數對我的幫助"></a><strong>恐懼與貪婪指數對我的幫助</strong></h2><p>每個人的資金有限，因此分批進場是相對重要的，抄底的投資者必須觀望市場的氛圍，這時『恐懼與貪婪指數』就有其參考的可用性。但是技術指標終究有其侷限性，你也會遇到高低檔的鈍化問題，所以仍然需要搭配例如基本面或總體經濟來做投資評估，否則僅依靠單一指標容易會遇到投資陷阱。</p>
+]]></content>
+      <categories>
+        <category>股市基礎</category>
+      </categories>
+      <tags>
+        <tag>貪婪指數</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>新手的股市下單必備知識</title>
+    <url>/investment/stockorder/</url>
+    <content><![CDATA[<img src="https://live.staticflickr.com/65535/51619112070_ee986e4b6e_o.jpg" width="600" height="400" alt="新手的股市下單必備知識封面">
+如果你剛進入股市，但是對於交易的規則總是好像懂，但又是不太懂那透過這機會，讓我來告訴你當你開戶完成之後，要進行下單前，除了準備錢之外你該知道的事，我這邊主要會以整股交易做為說明。
+<span id="more"></span>
+
+<h2 id="什麼時候可以下單"><a href="#什麼時候可以下單" class="headerlink" title="什麼時候可以下單"></a><strong>什麼時候可以下單</strong></h2><p>股票的交易時間，目前為上班日同時排除周末補班的時段。</p>
+<blockquote>
+<p>開始交易時間為早上9:00至下午的1:30</p>
+</blockquote>
+<h2 id="交易後何時要準備匯款"><a href="#交易後何時要準備匯款" class="headerlink" title="交易後何時要準備匯款"></a><strong>交易後何時要準備匯款</strong></h2><p>台股目前為T+2的制度，白話來說T就是今天，+2指的是後兩個交易日上午10:00要匯款至交割的銀行帳戶，否則就是違約交割。</p>
+<blockquote>
+<p>你在這個週五買進了一張100元的股票，下星期二上午10點以前，交割帳戶至少要有必10萬元加上交易的手續費。</p>
+</blockquote>
+<h2 id="交易中的成本"><a href="#交易中的成本" class="headerlink" title="交易中的成本"></a><strong>交易中的成本</strong></h2><p>目前台股交易的成本，會有交易稅與手續費兩種。<br>1.手續費<br>『買進』與『賣出』皆要付給券商，公定價是千分之1.425(0.1425%)，每家券商都會有不同的折扣，電子下單折扣約莫2~6折，但實際上選擇以開戶方便或下單軟體APP，使用方便性為考量較為重要，如果後續有借券需求尋求規模大的券商比較容易借出。<br>2.交易稅<br>僅有『賣出』要付，對象是政府，會收取千分之3(0.3%)，目前當沖交易稅減半；ETF的標的交易收取千分之1(0.1%)。</p>
+<h2 id="實際計算交易成本"><a href="#實際計算交易成本" class="headerlink" title="實際計算交易成本"></a><strong>實際計算交易成本</strong></h2><p>以2021/10/6的護國神山台積電(2330)來舉例，當天台積電收盤價為571元，此時買進一張，手續費計算方式(不打折)如下。</p>
+<blockquote>
+<p>手續費:571000 0.001425=813.68元<br>此時買進總成本為571000+814=571814元</p>
+</blockquote>
+<p>如果你某天要賣出了，假設賣在600元這時你可拿回的金額計算方式如下</p>
+<blockquote>
+<p>手續費:600000 * 0.001425=855元<br>交易稅:600000 * 0.003=1800元<br>賣出後可拿回:600000-855-1800=597345元</p>
+</blockquote>
+<h2 id="下單條件"><a href="#下單條件" class="headerlink" title="下單條件"></a><strong>下單條件</strong></h2><p>目前台股為逐筆搓合，下單有三種分別為ROD、IOC、FOK，三者的差距如下，如果是新手投資人ROD是最接近直覺的交易方式。<br>(1) ROD : 當日有效(Rest of Day)<br>當日的下單都有效，只要符合買賣價格就會執行交易。<br>(2) IOC：立即成交否則取消(Immediate-or-Cancel)<br>能夠在設定的價位作成交，而沒有成交的部分就取消。<br>(3) FOK：全部成交否則取消(Fill-or-Kill)<br>一定要全部成交，否則就全部取消，例如要買10張只有10張權買到，或是全部都沒買到。</p>
+<h2 id="零股交易"><a href="#零股交易" class="headerlink" title="零股交易"></a><strong>零股交易</strong></h2><p>以上的說明是以張為單位，1張股票是1000股，但其實許多人無法一次就購買一整張，因此衍生出了零股交易，目前零股交易有分為盤中零股交易與盤後零股交易，其兩者的差別如下，值得注意的是零股交易會有可能出現部分成交。</p>
+<ul>
+<li>盤中零股交易<ol>
+<li>交易時間:9:00~13:30</li>
+<li>搓合方式:9:10後，每三分鐘一次搓合</li>
+</ol>
+</li>
+<li>盤後零股交易<ol>
+<li>交易時間:13:40~14:30</li>
+<li>搓合方式:一次搓合</li>
+</ol>
+</li>
+</ul>
+<p>相關資訊可以參考<br><a href="https://www.twse.com.tw/zh/page/products/trading/introduce14.html">台灣證券交易所 零股專區</a></p>
+]]></content>
+      <categories>
+        <category>股市基礎</category>
+      </categories>
+      <tags>
+        <tag>股市下單</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>證券戶手續費優惠清單</title>
+    <url>/investment/handlinglist/</url>
+    <content><![CDATA[<img src="https://live.staticflickr.com/65535/51676506741_842471a731_o.jpg" width="600" height="400" alt="證券戶手續費優惠清單">
+
+<p>近期因為網路銀行的發展，搭配全民投資的風氣，開立證券戶是大家必經的過程，避免大家因為各式各樣的開戶資訊造成選擇性障礙。這次會統整券商們的手續費優惠資訊，除此之外也會告訴大家，你該如何做選擇。</p>
+<span id="more"></span>
+<h1 id="證券戶該怎麼選"><a href="#證券戶該怎麼選" class="headerlink" title="證券戶該怎麼選"></a><strong>證券戶該怎麼選</strong></h1><p>要進入股市首先你必須要有一個證券戶，絕多數的人會透過券商來做股票的交易，扣除掉必須的證交稅外，還有一個交易成本就是手續費，因此如果你能夠選擇手續費折扣較好的券商相對來說就是增加了自己的獲利。</p>
+<p>但手續費真的越低越好嗎?其實未必你更應該要評估開立證券戶的要點是以下兩項</p>
+<p>1.開戶的便利性<br>2.下單軟體或APP的好用性<br>3.小資族如果是投資零股有無特別優惠折扣<br>4.如有放空需求需要注意券源，小資族其實可忽略</p>
+<h1 id="券商開戶優惠清單"><a href="#券商開戶優惠清單" class="headerlink" title="券商開戶優惠清單"></a><strong>券商開戶優惠清單</strong></h1><p>這邊會整理一些主要券商電子下單的手續費資訊，手續費的折扣有日退或月退，零股交易的小資族也多多注意最低手續費喔!!!</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;border-style:solid;border-width:1px;}
+.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:0px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:0px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e9kq{background-color:#eee8d5;font-size:18px;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-xbjk{font-size:18px;font-weight:bold;text-align:left;vertical-align:bottom}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xbjk">證券</th>
+    <th class="tg-xbjk">折扣</th>
+    <th class="tg-xbjk">最低手續費</th>
+    <th class="tg-xbjk">零股最低手續費</th>
+    <th class="tg-xbjk">退傭時間</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-e9kq">國泰證券</td>
+    <td class="tg-e9kq">2.8折</td>
+    <td class="tg-e9kq">1元</td>
+    <td class="tg-e9kq">1元</td>
+    <td class="tg-e9kq">日退</td>
+  </tr>
+  <tr>
+    <td class="tg-xbjk">新光證券</td>
+    <td class="tg-xbjk">2.8折</td>
+    <td class="tg-xbjk">20元</td>
+    <td class="tg-xbjk">1元</td>
+    <td class="tg-xbjk">日退</td>
+  </tr>
+  <tr>
+    <td class="tg-e9kq">台新證券</td>
+    <td class="tg-e9kq">3折</td>
+    <td class="tg-e9kq">20元</td>
+    <td class="tg-e9kq">1元</td>
+    <td class="tg-e9kq">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-xbjk">富邦證券</td>
+    <td class="tg-xbjk">6折</td>
+    <td class="tg-xbjk">20元</td>
+    <td class="tg-xbjk">1元</td>
+    <td class="tg-xbjk">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-e9kq">元大證券</td>
+    <td class="tg-e9kq">6折</td>
+    <td class="tg-e9kq">20元</td>
+    <td class="tg-e9kq">1元</td>
+    <td class="tg-e9kq">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-xbjk">凱基證券</td>
+    <td class="tg-xbjk">6折</td>
+    <td class="tg-xbjk">20元</td>
+    <td class="tg-xbjk">1元</td>
+    <td class="tg-xbjk">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-e9kq">統一證券</td>
+    <td class="tg-e9kq">6折</td>
+    <td class="tg-e9kq">20元</td>
+    <td class="tg-e9kq">1元</td>
+    <td class="tg-e9kq">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-xbjk">日盛證券</td>
+    <td class="tg-xbjk">6折</td>
+    <td class="tg-xbjk">20元</td>
+    <td class="tg-xbjk">5元</td>
+    <td class="tg-xbjk">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-e9kq">中國信託證券</td>
+    <td class="tg-e9kq">6折</td>
+    <td class="tg-e9kq">20元</td>
+    <td class="tg-e9kq">20元</td>
+    <td class="tg-e9kq">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-xbjk">永豐金證券</td>
+    <td class="tg-xbjk">6.5折</td>
+    <td class="tg-xbjk">1元</td>
+    <td class="tg-xbjk">1元</td>
+    <td class="tg-xbjk">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-e9kq">群益證券</td>
+    <td class="tg-e9kq">6.5折</td>
+    <td class="tg-e9kq">20元</td>
+    <td class="tg-e9kq">1元</td>
+    <td class="tg-e9kq">日退</td>
+  </tr>
+  <tr>
+    <td class="tg-xbjk">華南永昌</td>
+    <td class="tg-xbjk">6.5折</td>
+    <td class="tg-xbjk">20元</td>
+    <td class="tg-xbjk">1元</td>
+    <td class="tg-xbjk">月退</td>
+  </tr>
+  <tr>
+    <td class="tg-e9kq">元富證券</td>
+    <td class="tg-e9kq">6.5折</td>
+    <td class="tg-e9kq">20元</td>
+    <td class="tg-e9kq">20元</td>
+    <td class="tg-e9kq">月退</td>
+  </tr>
+</tbody>
+</table>
+
+<h1 id="證券戶該怎麼選-1"><a href="#證券戶該怎麼選-1" class="headerlink" title="證券戶該怎麼選"></a><strong>證券戶該怎麼選</strong></h1><p>我的實體券商開戶是富邦證券，主要是看中其定期定額的低手續費(1元起)，軟體介面上手好用程度5顆星滿分我給4.5顆星，營業員的服務也相當友善，當初連下單都不會還是營業員教的XD。<br><a href="https://www.fbs.com.tw/h5w/616666666601070754CE">富邦證券 開戶資訊</a></p>
+<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a><strong>延伸閱讀</strong></h1><p><a href="https://nicenotetw.com/investment/stockorder/">新手的股市下單必備知識</a></p>
+]]></content>
+      <categories>
+        <category>股市基礎</category>
+      </categories>
+      <tags>
+        <tag>股市下單</tag>
+        <tag>手續費</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>理財小白必懂的股市常識名詞懶人包</title>
+    <url>/investment/common/</url>
+    <content><![CDATA[<img src="https://live.staticflickr.com/65535/51722296854_ef752b6203_o.png" width="600" height="400" alt="理財小白必懂的股市常識名詞懶人包">
+
+<p>股市中漲與跌，是獲利或虧損的基礎，但很多時候你一旦只知道漲與跌這兩個名詞，最後恐怕就是準備被割的韭菜。在這篇懶人包中會把盤勢、交易、K線圖、特殊事件，簡單的找出常識名詞給大家當懶人包，本文未來持續更新，如果你有疑問歡迎來信做詢問。</p>
+<span id="more"></span>
+
+<h2 id="盤勢相關"><a href="#盤勢相關" class="headerlink" title="盤勢相關"></a><strong>盤勢相關</strong></h2><ol>
+<li>上漲:今日收盤價格，大於昨日收盤價格</li>
+<li>下跌:今日收盤價格，小於昨日收盤價格</li>
+<li>平盤:今日收盤價格，等於昨日收盤價格</li>
+<li>牛市:上漲趨勢，也有人稱為多頭格局</li>
+<li>熊市:下跌趨勢，也有人稱為空頭格局</li>
+</ol>
+<h2 id="K線圖怎麼看"><a href="#K線圖怎麼看" class="headerlink" title="K線圖怎麼看?"></a><strong>K線圖怎麼看?</strong></h2><ol>
+<li>K線圖的組成: 開盤價格、盤中最高價、盤中最低價、收盤價格</li>
+<li>紅K:收盤價格大於開盤價格；股價上漲，用紅色來繪製</li>
+<li>黑K:收盤價格小於開盤價格；股價下跌，用綠色來繪製</li>
+<li>十字線:收盤價格等於開盤價格，表示買方與賣方對於價格的影響力不分上下。</li>
+<li>K線週期:除了單日的K線，多數看盤軟體也能夠切換分K線、週K線、月K線<img src="https://live.staticflickr.com/65535/51715943814_03e5a14964_o.jpg" width="899" height="561" alt="K線"></li>
+</ol>
+<h2 id="交易相關"><a href="#交易相關" class="headerlink" title="交易相關"></a><strong>交易相關</strong></h2><ol>
+<li>搓合:由證券交易所系統進行媒合，讓有出價的買方與賣方，在雙方可接受的價格進行成交。</li>
+<li>融資:借錢買進股票，借錢對向為券商，利息6%上下，每1萬本金可借1.5萬元，到期時需要本與息同時償還。</li>
+<li>融券:看空公司的交易方式， 先向券商借出股票，當高股票高價時賣出，低價時買入，到期時償還當初借出數量的股票和利息。</li>
+<li>軋空:當放空時股票不跌反漲，放空方被迫虧損買入股票償還。</li>
+</ol>
+<h2 id="特殊事件"><a href="#特殊事件" class="headerlink" title="特殊事件"></a><strong>特殊事件</strong></h2><ol>
+<li>股東會:公司投資人的會議，散戶可於此會議詢問經營階層，也可能會遇到董監選舉，延伸的事件會有委託書徵選。當然還有大家會關注的紀念品也可以拿股東會通知書去兌換。</li>
+<li>法說會:簡單來說是業績的說明會，會有公司未來的發展規劃或是財務說明，產業的願景說明。目前規定上市公司每年都需要開一次法說會。</li>
+<li>封關日:台灣最長的國定假日為農曆年假，因應股市的T+2日機制，會在農曆年前休市停止交易，因此最後一天的交易日通常都稱為封關日。</li>
+<li>紅盤日:農曆年假的結束的第一天交易日，因為取其吉祥的象徵，又稱為紅盤日。</li>
+</ol>
+<h3 id="本文未來持續更新"><a href="#本文未來持續更新" class="headerlink" title="本文未來持續更新"></a><strong>本文未來持續更新</strong></h3><p>相關資訊可以參考<br><a href="https://webpro.twse.com.tw/webportal/vod/101/?categoryId=101">證券交易所法說會影音區</a></p>
+]]></content>
+      <categories>
+        <category>股市基礎</category>
+      </categories>
+      <tags>
+        <tag>盤勢</tag>
+        <tag>K線圖</tag>
+        <tag>懶人包</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>四個你必須知道的，股利常識</title>
+    <url>/investment/dividend/</url>
+    <content><![CDATA[<img src="https://github.com/dahnote/img/blob/main/2021/blog/20211227.png?raw=true" width="600" height="400" alt="四個你必須知道的，股利常識">
+
+<p>台股每年都會有所謂的除權息旺季，公司準備將去年的獲利分給股東，你我都期待著股利入帳，但是你知道股利的背後其實是有許多的小細節嗎?這次我統整了四個你必須知道的，股利常識，讓你對於股利不會再迷惘。</p>
+<span id="more"></span>
+
+<h2 id="股利是什麼"><a href="#股利是什麼" class="headerlink" title="股利是什麼?"></a><strong>股利是什麼?</strong></h2><p>在台灣股利分為兩種，第一種常見的是現金股利；第二種是股票股利。</p>
+<ol>
+<li>現金股利<br> <strong>公司會將去年的盈餘，用『現金』發給股東，通常我們都稱之為股息</strong><br> 每1元的股息，代表股東每擁有1股，公司就能夠配發1元現金給股東。<br> 範例: 2021年鴻海會配發4元的股利，換算若是持有1張的鴻海，公司就會配發4000元的股利。<br> 算法: 4 x 1,000 ＝ 4,200 元</li>
+<li>股票股利<br><strong>公司保留盈餘，用『股票』發給股東，通常我們都稱之為配股</strong><br>配股票的首要問題是會造成股本的增加，每1元的股票，能夠每股配發0.1股的股票，就是增加10%的股本。股票股利注意重點，如果獲利跟不上就會造成每股盈餘(EPS)下降。<br>範例: 2021年台中銀會配發0.45元的股票股利，換算若是持有1張的台中銀，公司就會配發5股的股票。<br>算法: 0.45 x 1,000 ÷ 10 ＝ 45股</li>
+</ol>
+<h2 id="股利發放時間"><a href="#股利發放時間" class="headerlink" title="股利發放時間?"></a><strong>股利發放時間?</strong></h2><p>每家公告除權息資訊時，有四個我們常見到的時間，除權(息)交易日、最後過戶日、停止過戶期間、除權(息)基準日、權(息)發放日。</p>
+<blockquote>
+<p>想要領股利只要專注在，除權(息)交易日的前一個交易日持有就可以了，例如你想要參與2022台積電的股利分配，最晚必須要在111年3月15持有台積電。</p>
+</blockquote>
+<img src="https://github.com/dahnote/img/blob/main/2021/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%99%A4%E6%AC%8A%E6%81%AF%E4%BA%A4%E6%98%93%E6%97%A5.JPG?raw=true" alt="台積電2022股利">
+
+<h2 id="股利怎麼查"><a href="#股利怎麼查" class="headerlink" title="股利怎麼查?"></a><strong>股利怎麼查?</strong></h2><p>一般來說我針對股利資訊，除了能夠領多少與何時領之外，我另外還會關注過去的填息比率與填息的天數。因此我多數的狀況都是透過goodinfo的股利資訊做為查詢的依據。</p>
+<p>下圖是goodinfo中鴻海(2317)近五年的股利，我們可以看到除了近五年的分配股利狀況，也能看到當年的高低股價、殖利率、填息天數。如果你有興趣做預估股利這件事，可以拿最右側的盈餘分配率來做未來股利的預估。<br><img src="https://github.com/dahnote/img/blob/main/2021/121802.JPG?raw=true" alt="鴻海五年股利"></p>
+<h2 id="股利的二代健保補充健保費"><a href="#股利的二代健保補充健保費" class="headerlink" title="股利的二代健保補充健保費"></a><strong>股利的二代健保補充健保費</strong></h2><p>從民國110年起二代健保的補充保費為2.11%，課徵的門檻為單筆2萬元(含)以上就必須要繳交二代健保補充健保費。<br>我們前面提過了股利有現金股利與股票股利兩種，這兩種股利是目前要課徵的範圍。現金股利比較好理解的是，就是兩萬元為門檻，股票股利的價值是用面額來計算，達到門檻才課稅。</p>
+<blockquote>
+<p>股票股利: 分配股數 * 面額(10元)</p>
+</blockquote>
+<p>我們透過合庫金(5880)為例子，在2021年時合庫金(5880)的分配狀況為現金股利0.85元，股票股利0.2元。如果我們有100張的合庫金我們的補充保費計算方式如下，合計加總約莫為2216元。</p>
+<blockquote>
+<p>現金股利: 850 * 100 * 2.11% = 1794元<br>股票股利: 20 * 10  * 100  * 2.11% = 422元</p>
+</blockquote>
+<p>但我們剛剛提過了單筆2萬元才要課徵，如果你的現金股利與股票股利發放時間不同時，則是可以兩者分開計算的喔。</p>
+<h2 id="相關資訊"><a href="#相關資訊" class="headerlink" title="相關資訊"></a>相關資訊</h2><p><a href="https://mops.twse.com.tw/mops/web/index">公開資訊觀測站</a><br><a href="https://goodinfo.tw/">goodinfo</a><br><a href="https://www.nhi.gov.tw/Nhi2/QA.aspx?n=696A8028EA3C410C&topn=0B69A546F5DF84DC">二代健保</a></p>
+]]></content>
+      <categories>
+        <category>股市基礎</category>
+      </categories>
+      <tags>
+        <tag>懶人包</tag>
+        <tag>股利</tag>
+        <tag>除權息</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>金融銀行股2021年自結EPS</title>
+    <url>/revenue/finance2021/</url>
+    <content><![CDATA[<img src="https://github.com/dahnote/img/blob/main/2022/20220117.jpg?raw=true" width="600" height="400" alt="金融銀行股2021年自結EPS">
+多數公司僅會公佈每月的營收，但是我們只能大概率的根據過去毛利做EPS的預估，因此有時容一出現財報的空窗期，但是金控與多數的銀行，會公告其每月的自結EPS給投資人參考。因此我們會設定追蹤這些金控與銀行的EPS相關數據。不論是壽險、消費、財務管理、證券體系我們都一網打盡。
+<span id="more"></span>
+
+
+
+<h2 id="EPS是什麼"><a href="#EPS是什麼" class="headerlink" title="EPS是什麼?"></a><strong>EPS是什麼?</strong></h2><p>EPS白話翻譯就是每股盈餘，每擁有一股，能夠賺到多少錢。<br>計算公式是👉公司的稅後淨利 / 普通股在外流通股數</p>
+<h2 id="會統計那些金控銀行"><a href="#會統計那些金控銀行" class="headerlink" title="會統計那些金控銀行?"></a><strong>會統計那些金控銀行?</strong></h2><p>原則上以每月有公佈自結稅後淨利的公司為主，金控都會有但是銀行不會全部有，因為有些是每季公告或是公佈稅前淨利。</p>
+<h2 id="銀行股EPS"><a href="#銀行股EPS" class="headerlink" title="銀行股EPS"></a><strong>銀行股EPS</strong></h2><style type="text/css">
+.tg  {border-collapse:collapse;border-color:#bbb;border-spacing:0;border-style:solid;border-width:1px;}
+.tg td{background-color:#E0FFEB;border-color:#bbb;border-style:solid;border-width:0px;color:#594F4F;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#9DE0AD;border-color:#bbb;border-style:solid;border-width:0px;color:#493F3F;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1nsa{color:#484848;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0nsz{background-color:#C2FFD6;color:#484848;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-i4lp{background-color:#9FC5E8;color:#484848;font-size:16px;font-weight:bold;text-align:center;vertical-align:bottom}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">股號</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">股名</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">累積EPS</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">1月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">2月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">3月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">4月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">5月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">6月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">7月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">8月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">9月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">10月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">11月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">12月</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2801</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">彰銀</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.68</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.06</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.03</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.05</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.04</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.04</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.05</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.04</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.05</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2809</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">京城銀</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">4.9</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.39</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.39</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.01</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.35</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.29</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.34</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.51</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.4</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.61</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.48</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.57</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.56</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2812</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">台中銀</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">1.03</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.06</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.06</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.11</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2834</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">臺企銀</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.64</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.06</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.05</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.04</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.04</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.06</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.02</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.05</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.05</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.05</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.05</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2838</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">聯邦銀</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.96</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.11</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">-0.11</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.11</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.13</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.16</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.12</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2897</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">王道銀</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.41</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.03</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.01</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.01</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.04</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.06</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">-0.01</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.02</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.04</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.04</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.01</span></td>
+  </tr>
+</tbody>
+</table>
+
+<h2 id="金控股EPS"><a href="#金控股EPS" class="headerlink" title="金控股EPS"></a><strong>金控股EPS</strong></h2><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">股號</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">股名</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">累積EPS</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">1月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">2月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">3月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">4月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">5月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">6月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">7月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">8月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">9月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">10月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">11月</span></th>
+    <th class="tg-i4lp"><span style="color:#484848;background-color:#9FC5E8">12月</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2880</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">華南金</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.67</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.08</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">-0.3</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.11</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.06</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.12</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.09</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2881</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">富邦金</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">8.59</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.93</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.52</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.79</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.51</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.61</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.01</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">1.3</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">1.3</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.4</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.63</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.57</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">1.02</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2882</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">國泰金</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">5.39</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.76</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.62</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.34</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.35</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.43</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.18</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.55</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.97</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.35</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.27</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.31</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.26</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2883</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">開發金</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.86</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.05</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.03</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">-0.11</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.03</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.15</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.18</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.06</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2884</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">玉山金</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">1.43</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.16</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.12</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.11</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.14</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.15</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.15</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.15</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.04</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.09</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.13</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.09</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2885</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">元大金</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">1.99</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.13</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.17</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.2</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.17</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.32</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.25</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.13</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.17</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.11</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2886</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">兆豐金</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">1.84</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.14</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.12</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">-0.12</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.25</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.22</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.22</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.23</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.19</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.14</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.13</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.17</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.15</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2887</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">台新金</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">1.17</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.13</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">-0.03</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.11</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.04</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2888</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">新光金</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">1.11</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.14</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.35</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.04</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.02</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.5</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.19</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.04</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">-0.06</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">-0.25</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2889</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">國票金</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">1.12</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.05</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.04</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.13</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.13</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.11</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2890</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">永豐金</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">1.08</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.14</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.11</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.08</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.13</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.09</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.09</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">2891</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">中信金</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">2.15</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.26</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.21</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.18</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.17</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">-0.03</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.41</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.25</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.21</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.16</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.07</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.12</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">2892</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">第一金</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">1.31</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.12</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.11</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.01</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.17</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.15</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.14</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.16</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.1</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.08</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.11</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.09</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1nsa"><span style="color:#484848">5820</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">日盛金</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.77</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.04</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.03</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.01</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.08</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.06</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.12</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.15</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.04</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.04</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.06</span></td>
+    <td class="tg-1nsa"><span style="color:#484848">0.07</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0nsz"><span style="color:#484848">5880</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">合庫金</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">1.24</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.11</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.12</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.12</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.08</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.1</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.09</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.14</span></td>
+    <td class="tg-0nsz"><span style="color:#484848">0.11</span></td>
+  </tr>
+</tbody>
+</table>
+
+<h2 id="2021成長比較"><a href="#2021成長比較" class="headerlink" title="2021成長比較"></a><strong>2021成長比較</strong></h2><p>以下為金控銀行，2021自結EPS與2020自結EPS的比較。</p>
+<img src="https://github.com/dahnote/img/blob/main/2022/01171.JPG?raw=true" width="624" height="701" alt="2021成長比較">
+
+<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a><strong>延伸閱讀</strong></h2><p><a href="https://nicenotetw.com/investment/stockorder/">新手的股市下單必備知識</a><br><a href="http://localhost:4000/investment/common/">理財小白必懂的股市常識名詞懶人包</a><br><a href="https://mops.twse.com.tw/mops/web/index">公開資訊觀測站</a></p>
+<h2 id="警語"><a href="#警語" class="headerlink" title="警語"></a><strong>警語</strong></h2><p>以上資料為站長自行整理，僅供參考詳細數據以公開觀測站資訊為主。</p>
+]]></content>
+      <categories>
+        <category>營收資訊</category>
+      </categories>
+      <tags>
+        <tag>EPS</tag>
+        <tag>金融股</tag>
+      </tags>
+  </entry>
+</search>
